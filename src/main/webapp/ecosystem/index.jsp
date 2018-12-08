@@ -44,6 +44,10 @@
             <a rel="nofollow" href="https://www.ranorex.com/selocity/browser-extension.html">Selocity</a> -
             Free Chrome browser extension to auto-generate robust CSS, XPath, link text, and RanoreXPath selectors.
         </li>
+        <li>
+            <a rel="nofollow" href="https://www.softwaretesting.ai">SoftwareTesting.AI</a> -
+            Testing Platform for running codeless Selenium tests in headless browser mode.
+        </li>
     </ul>
 
     <h2>Monitoring &amp; Load Testing Services</h2>
